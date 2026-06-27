@@ -1,5 +1,8 @@
-## Hi there 👋
+## hello everybody
 
+## my nickname - nurkinns 
+## 👨‍💻 im junior-python developer 🐍
+## under this post you can see my projects 
 <!--
 **nurkinns/nurkinns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
