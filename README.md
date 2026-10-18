@@ -1,6 +1,4 @@
 ## hello everybody
-
-## my nickname - nurkinns 
 ## 👨‍💻 im junior-python developer 🐍
 ## all my projects you can see in repository
 <!--
