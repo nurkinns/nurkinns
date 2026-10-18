@@ -1,6 +1,6 @@
 ## hello everybody
 ## 👨‍💻 im junior-python developer 🐍
-## all my projects you can see in repository
+## all my projects you can see in repositories
 <!--
 **nurkinns/nurkinns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
